@@ -5,6 +5,8 @@ I use the pretrained glove.6B.100d for the word embedding, the file could be dow
 # Setup
 The program is based on python 2.7 and Jupyter notebook, remember to download the glove.6B and put it in the same directory
 
+# Approach
+I adopt the textCNN as the benchmark
 # Result
 The prediction result is stored in prediction.csv
 
