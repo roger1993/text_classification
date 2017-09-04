@@ -11,4 +11,4 @@ I adopt the textCNN as the benchmark
 The prediction result is stored in prediction.csv
 
 # Reference
-https://arxiv.org/pdf/1408.5882.pdf
+TextCNN network: https://arxiv.org/pdf/1408.5882.pdf
