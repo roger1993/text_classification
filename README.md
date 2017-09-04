@@ -1,6 +1,6 @@
-# text_classification
+# Text Classification
 Testing program
-I use the pretrained glove.6B.100d for the word embedding, the file could be downloaded from https://nlp.stanford.edu/projects/glove/, the current problem is this pretrained dictionary just has few Chinese characters, so the accuracy is very low about 73%. I will focus on training the scenario-based word embedding dictionary because the word embedding is upmost for the deep learning approach.
+I use the pretrained glove.6B.100d for the word embedding, the file could be downloaded from https://nlp.stanford.edu/projects/glove/, the current problem is this pretrained dictionary just has few Chinese characters, so the accuracy is very low about 75%. I will focus on training the scenario-based word embedding dictionary because the word embedding is upmost for the deep learning approach.
 
 
 # Reference
